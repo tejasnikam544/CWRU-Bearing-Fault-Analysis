@@ -1,0 +1,1 @@
+Aim of this project is to produce reproducible results in condition monitoring. In this project, we will tackle the problem of Data-Driven Fault Diagnosis. We will apply some of the standard machine learning techniques to publicly available datasets and show the results with code. This is an ongoing project and will evolve over time.
